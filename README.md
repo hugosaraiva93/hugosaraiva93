@@ -1,18 +1,18 @@
 <div>
   <h1 align="center">
-    # Ola, sou Hugo Saraiva !!! 
+    ✔ Ola, sou Hugo Saraiva !!! 
   </h1>
   <p align="center">
-    Sou desenvolvedor Front End e vou compartilhar meu conhecimento e aprendizado aqui no perfil !!
+    Sou Desenvolvedor Front End e vou compartilhar meu conhecimento e aprendizado aqui no perfil !!
   </p>  
   <p align="center">
-    Espero poder ajudar com o conteudo aqui postado.
+    Espero poder ajudar com o conteúdo aqui postado.
   </p>
 </div>
 
 <div align="center">
   <a href="https://github.com/hugosaraiva93"><br>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=hugosaraiva93&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=hugosaraiva93&show_icons=true&theme=merko&include_all_commits=true&count_private=false"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugosaraiva93&theme=merko&layout=compact&langs_count=7"/>
 </div>
 
