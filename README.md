@@ -32,6 +32,6 @@
 </div>
 
 <div align="center">
-    ![Snake animation](https://github.com/hugosaraiva93)
+   <a href= "![Snake animation](https://github.com/hugosaraiva93)"</a>
  
 
