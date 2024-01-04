@@ -3,7 +3,7 @@
     ✔ Ola, sou Hugo Saraiva !!! 
   </h1>
   <p align="center">
-    Sou Desenvolvedor Front End e vou compartilhar meu conhecimento e aprendizado aqui no perfil !!
+    Sou Desenvolvedor Front End e vou compartilhar meu conhecimento e aprendizado aqui no perfil !
   </p>  
   <p align="center">
     Espero poder ajudar com o conteúdo aqui postado.
