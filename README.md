@@ -34,6 +34,8 @@
 <div align="center">
   
     ![Snake animation](https://github.com/hugosaraiva93/hugosaraiva93/blob/output/github-contribution-grid-snake.svg)
+
+    [![readme](https://github-readme-stats.vercel.app/api/pin/?username=hugosaraiva93&repo=hugosaraiva93&theme=react)](https://github.com/hugosaraiva93/hugosaraiva93)
     
 </div>
 
