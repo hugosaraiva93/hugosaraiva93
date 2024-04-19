@@ -38,7 +38,3 @@
     [![readme](https://github-readme-stats.vercel.app/api/pin/?username=hugosaraiva93&repo=hugosaraiva93&theme=react)](https://github.com/hugosaraiva93/hugosaraiva93) -->
     
 </div>
-
- <div align="center">
-  <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
-</div>
