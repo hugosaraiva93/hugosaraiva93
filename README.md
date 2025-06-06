@@ -3,9 +3,9 @@
     ✔ Ola, sou Hugo  !!! 
   </h1>
   <p align="center">
-Meu nome é Hugo Saraiva. Aqui tem alguns projetos pessoais que fiz. Tenho formação em Análise e Desenvolvimento de Sistemas e experiência prática nas áreas de redes, dados e desenvolvimento front-end.
+Meu nome é Hugo Saraiva. Aqui tem alguns projetos pessoais. Tenho formação em Análise e Desenvolvimento de Sistemas e experiência prática nas áreas de redes, dados e desenvolvimento front-end.
 Ja atuei com atualização de dados via SharePoint, agendamento técnico com fornecedores, e conferência de segurança de rede no Fortigate, o que me proporcionou uma base sólida em infraestrutura e organização técnica.
-Possuo conhecimentos complementares em UX Design, SQL, Power BI, Git, e ferramentas visuais, além de interesse em design e comunicação digital. Estou em busca de uma oportunidade na área de tecnologia que me desafie e possibilite meu crescimento profissional.
+Possuo conhecimentos complementares em UX Design, SQL, Power BI, Git, e ferramentas visuais, além de interesse em design e comunicação digital. 
   </p>  
 </div>
 
