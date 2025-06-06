@@ -3,7 +3,10 @@
     ✔ Ola, sou Hugo  !!! 
   </h1>
   <p align="center">
-    Estou entrando na area de Desenvolvedor Front End e vou compartilhar meu conhecimento e aprendizado aqui no perfil !
+Meu nome é Hugo Saraiva. Tenho formação em Análise e Desenvolvimento de Sistemas e experiência prática nas áreas de redes, dados e desenvolvimento front-end.
+Durante meu estágio na Telebrás, atuei com atualização de dados via SharePoint, agendamento técnico com fornecedores, e conferência de segurança de rede no Fortigate, o que me        proporcionou uma base sólida em infraestrutura e organização técnica.
+Paralelamente, desenvolvi um projeto freelancer como front-end, criando uma interface de gerenciamento de tarefas responsiva, com uso de React Native, TypeScript, HTML5, CSS3 e JavaScript.
+Possuo conhecimentos complementares em UX Design, SQL, Power BI, Git, e ferramentas visuais, além de interesse em design e comunicação digital. Estou em busca de uma oportunidade na área de tecnologia que me desafie e possibilite meu crescimento profissional.
   </p>  
 </div>
 
