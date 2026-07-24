@@ -3,9 +3,16 @@
     ✔ Ola, sou Hugo  !!! 
   </h1>
   <p align="center">
-Meu nome é Hugo Saraiva. Aqui tem alguns projetos pessoais. Tenho formação em Análise e Desenvolvimento de Sistemas e experiência prática nas áreas de redes, dados e desenvolvimento front-end.
-Ja atuei com atualização de dados via SharePoint, agendamento técnico com fornecedores, e conferência de segurança de rede no Fortigate, o que me proporcionou uma base sólida em infraestrutura e organização técnica.
-Me organizando em breve mais projetos.
+Profissional desenvolvedor fullstack com formação em Análise e Desenvolvimento de Sistemas. Possuo conhecimentos em desenvolvimento de projetos (Front e Back-end), automações em redes, análise de dados, API, rest, Json e mais. Atualmente desenvolvendo projetos e buscando e evoluir minhas habilidades.
+
+Conhecimentos em: 
+JavaScript, TypeScript, Python,
+React, HTML, CSS, vuetify, vue3,
+Node.js, Express, axios, mysql, postgress, SQLite, MongoDB
+Python para Análise de Dados (pandas, matplotlib)
+Power BI (básico), Excel Avançado
+Redes TCP/IP, Linux básico, automações com Python
+Git, GitHub, VSCode
   </p>  
 </div>
 
